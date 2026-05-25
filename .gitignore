@@ -37,6 +37,9 @@ build/
 .env.local
 .env.*.local
 
+### Scripts ###
+start-backend.ps1
+
 ### Application Properties ###
 application-local.properties
 application-local.yml
